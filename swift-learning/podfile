@@ -1,4 +1,4 @@
-target 'swift-learning'
+target 'swift-learning' do
   use_frameworks!
   pod 'AFNetworking'
 end
