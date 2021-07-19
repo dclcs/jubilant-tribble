@@ -1,0 +1,4 @@
+target 'swift-learning'
+  use_frameworks!
+  pod 'AFNetworking'
+end
